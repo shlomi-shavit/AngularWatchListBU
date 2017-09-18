@@ -1,0 +1,9 @@
+header div{
+  color:#fff;
+}
+
+header div span {
+  display: block;
+  font-style: italic;
+  color: #bdc2c5;
+}
